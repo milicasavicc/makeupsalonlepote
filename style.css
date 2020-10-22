@@ -112,8 +112,8 @@ footer{
 		display:block;
 	}
 	.cenovnik{
-		height:90px;
-		width:475px;
+		height:140px;
+		width:520px;
 		margin-top:330px;
 	}
 	.slika{
@@ -134,8 +134,8 @@ footer{
 		position:relative;
 	}
 	footer{
-		margin-left:35px;
-		margin-top:450px;
+		margin-left:70px;
+		margin-top:700px;
 		font-size:25px;
 	}
 }
