@@ -80,7 +80,7 @@ table{
 	margin-top:200px;
 	height:180px;
 	font-size:20px;
-	width:950px
+	width:950px;
 }
 td{
 	border:1px solid hotpink;
@@ -104,4 +104,39 @@ footer{
 	font-size:30px;
 	position:relative;
 	margin-top:180px;
+}
+@media screen and (max-width: 600px){
+	.anim{
+		display:none;
+	}
+	.dugme{
+		display:block;
+	}
+	.cenovnik{
+		height:90px;
+		width:475px;
+		margin-top:330px;
+	}
+	.slika{
+		display:none;
+	}
+	.usluge{
+		display:none;
+	}
+	.pp{
+		margin-top:150px;
+		margin-left:4px;
+		font-size:25px;
+	}
+	.teksticcc{
+		margin-top:-80px;
+		margin-left:5px;
+		font-size:15px;
+		position:relative;
+	}
+	footer{
+		margin-left:35px;
+		margin-top:425px;
+		font-size:25px;
+	}
 }
