@@ -105,7 +105,7 @@ footer{
 	position:relative;
 	margin-top:180px;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 1000px){
 	.anim{
 		display:none;
 	}
@@ -136,7 +136,7 @@ footer{
 	}
 	footer{
 		margin-left:35px;
-		margin-top:425px;
+		margin-top:450px;
 		font-size:25px;
 	}
 }
