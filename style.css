@@ -140,8 +140,15 @@ footer{
 	.fb-share-button{
 		display:none;
 	}
+	.fb-like{
+		display:none;
+	}
 }
 .fb-share-button{
-	margin-left:950px;
 	margin-top:40px;
+}
+.fb-like{
+	margin-left:870px;
+	margin-top:60px;
+	position:relative;
 }
