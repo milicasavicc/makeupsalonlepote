@@ -88,8 +88,9 @@ td{
 	display:flex;
 	color:hotpink;
 	margin-left:220px;
-	margin-top:100px;
+	margin-top:30px;
 	font-size:20px;
+	position:absolute;
 }
 .pp{
 	margin-top:120px;
@@ -102,7 +103,7 @@ footer{
 	color:hotpink;
 	font-size:30px;
 	position:relative;
-	margin-top:180px;
+	margin-top:260px;
 }
 @media screen and (max-width: 1000px){
 	.anim{
@@ -136,4 +137,11 @@ footer{
 	footer{
 		display:none;
 	}
+	.fb-share-button{
+		display:none;
+	}
+}
+.fb-share-button{
+	margin-left:950px;
+	margin-top:40px;
 }
